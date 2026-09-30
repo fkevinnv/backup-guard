@@ -1,0 +1,17 @@
+{
+  "jobs": [
+    {
+      "name": "documentos",
+      "source": "/home/usuario/Documentos",
+      "destination": "/mnt/backups/documentos",
+      "keep": 5
+    },
+    {
+      "name": "proyectos",
+      "source": "/home/usuario/Proyectos",
+      "destination": "/mnt/backups/proyectos",
+      "keep": 10
+    }
+  ],
+  "notify_email": null
+}
