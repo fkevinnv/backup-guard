@@ -106,12 +106,3 @@ pip install pytest
 pytest
 ```
 
-## Posibles mejoras
-
-- Subida de las copias a almacenamiento en la nube (S3, Google Drive).
-- Cifrado de los archivos comprimidos.
-- Copias incrementales en vez de comprimir todo cada vez.
-
-## Licencia
-
-Este proyecto se distribuye bajo licencia MIT. Consulta el archivo `LICENSE`.
